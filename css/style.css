@@ -486,7 +486,7 @@ h6 {
   font-size: 13px;
   text-transform: uppercase;
   overflow: hidden;
-  padding: 10px 22px 10px 15px;
+  padding: 10px 100px 10px 15px;
   position: relative;
   text-decoration: none;
   width: 100%;
@@ -501,7 +501,7 @@ h6 {
 }
 
 #mobile-nav ul li li {
-  padding-left: 30px;
+  padding-left: 350px;
 }
 
 #mobile-nav ul li.menu-active a {
